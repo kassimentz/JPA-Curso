@@ -1,0 +1,8 @@
+package com.algaworks.curso.modelo;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Cliente {
+
+}
